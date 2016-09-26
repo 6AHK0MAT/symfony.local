@@ -1,0 +1,7 @@
+csm_blog:
+    resource: "@CsmBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

@@ -1,0 +1,7 @@
+csm_blog_post:
+    resource: "@CsmBlogBundle/Resources/config/routing/post.yml"
+    prefix:   /post
+
+csm_blog_homepage:
+    path:     /
+    defaults: { _controller: CsmBlogBundle:Default:index }

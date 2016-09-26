@@ -1,0 +1,4 @@
+services:
+#    csm_blog.example:
+#        class: Csm\BlogBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
